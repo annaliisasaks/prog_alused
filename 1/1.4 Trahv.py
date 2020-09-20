@@ -5,4 +5,3 @@ esialgneV = (tegKiirus-lubKiirus)*3
 trahv= str(min(190,esialgneV))
 
 print(nimi + ", kiiruse ületamise eest on teie trahv " + trahv + " eurot.")
-
